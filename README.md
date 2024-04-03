@@ -59,6 +59,9 @@ endmodule
 
 ```
 **RTL Schematic**
+
+
+
 ![WhatsApp Image 2024-04-03 at 10 50 57_2589b0c9](https://github.com/DivyaP0110/FULL_ADDER_SUBTRACTOR/assets/144870891/1fa80427-1d17-4485-bef1-d1f93ad763f6)
 
 
